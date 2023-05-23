@@ -34,24 +34,19 @@
 
     - *u* : ***프로세스 소유자의 이름, CPU 사용량, 메모리 사용량*** 등을 출력함
 
+    ![image](https://github.com/kingsiuness12/hellowood12/assets/133829859/1b587406-d85a-4286-a0ab-0d7d88533a94)
+    
+    
     - *x* : ***사용자가 로그아웃 한 이후에도 실행중인 모든 프로세스*** 를 출력함
 
-      > ps -ef를 grep과 같이 이용하여  ***ps -ef | grep [프로세스명]***  을 이용하여 실행중인 프러세스를 확인하는 용도로 가장 많이 사용한다고 함
-
-      > PID를 확인 할 수 있기 때문에 ps -ef로 프로세스명을 확인하고 kill명령어를 이용해 해당 프로세스를 종료시킨다고 함
-
-
-
-
-
-      ![image](https://github.com/kingsiuness12/hellowood12/assets/133829859/1b587406-d85a-4286-a0ab-0d7d88533a94)
-      
-     
        ![image](https://github.com/kingsiuness12/hellowood12/assets/133829859/918d4bdc-eb12-470b-9a52-47d8bf6588ab)
 
 
 
 
+      > ps -ef를 grep과 같이 이용하여  ***ps -ef | grep [프로세스명]***  을 이용하여 실행중인 프러세스를 확인하는 용도로 가장 많이 사용한다고 함
+
+      > PID를 확인 할 수 있기 때문에 ps -ef로 프로세스명을 확인하고 kill명령어를 이용해 해당 프로세스를 종료시킨다고 함
 
 
 
